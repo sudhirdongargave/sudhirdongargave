@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm Sandip Awale! 👋
+  Hi, I'm Sudhir Dongargave! 👋
 </h1>
 
 <p align="center">
@@ -23,7 +23,7 @@
 ## 🌟 About Me
 
 - 🔭 Currently working on *Full-Stack Web Development* 
-- 🌱 Learning *Advanced DSA*.
+- 🌱 Learning *DSA*.
 - 🏡 From *Latur*, Maharashtra.
 - ⚡ Fun fact: *I solve LeetCode problems daily* and enjoy contributing to *open-source* projects.
 
@@ -61,42 +61,12 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat)
 
 ---
-## 🏆 My LeetCode Badges
-<div align="center">
-  
-  <div style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 40px; margin: 20px 0;">
-    <a href="https://leetcode.com/Sandyy9322/" target="_blank">
-      <img src="https://github.com/Sandyy9322/coupon-distribution-frontend/blob/main/src/assets/2024-50.gif?raw=true" 
-           alt="LeetCode Badge 1" 
-           width="250" />
-    </a>
-    <a href="https://leetcode.com/Sandyy9322/" target="_blank">
-      <img src="https://github.com/Sandyy9322/coupon-distribution-frontend/blob/main/src/assets/2024-07.gif?raw=true" 
-           alt="LeetCode Badge 2" 
-           width="250" />
-    </a>
-    <a href="https://leetcode.com/Sandyy9322/" target="_blank">
-      <img src="https://github.com/Sandyy9322/coupon-distribution-frontend/blob/main/src/assets/2550.gif?raw=true" 
-           alt="LeetCode Badge 3" 
-           width="250" />
-    </a>
-  </div>
-</div>
-
----
-
-
-
-
 
 ## 📫 Connect With Me:
 
 <p align="center">
 
-  <a href="https://linkedin.com/in/sandipawale">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/sandip_awale_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  <a href="https://linkedin.com/in/sudhirdongargave">
+    </a>
+
 </p>
