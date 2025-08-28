@@ -60,13 +60,3 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat)
 
----
-
-## 📫 Connect With Me:
-
-<p align="center">
-
-  <a href="https://linkedin.com/in/sudhirdongargave">
-    </a>
-
-</p>
